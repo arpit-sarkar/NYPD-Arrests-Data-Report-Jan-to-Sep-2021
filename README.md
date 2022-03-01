@@ -1,4 +1,4 @@
-# NYPD Arrests Data (Jan-Sep 2021) Report
+# NYPD Arrests Data Report (Jan-Sep 2021)
 
 <h3>Overview</h3>
 
